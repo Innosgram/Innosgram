@@ -23,7 +23,7 @@
 
 ### 🏆 Tanzania GitHub Rankings
 
-[![committers.top badge](https://user-badge.committers.top/tanzania/Innosgram.svg)](https://committers.top/tanzania.html)
+[![committers.top badge](https://user-badge.committers.top/tanzania_public_private/Innosgram.svg)](https://committers.top/tanzania_public_private.html)
 ---
 
 ### 📊 GitHub Stats
