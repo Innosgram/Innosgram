@@ -21,6 +21,11 @@
 
 ---
 
+### 🏆 Tanzania GitHub Rankings
+
+[![committers.top badge](https://user-badge.committers.top/tanzania/Innosgram.svg)](https://committers.top/tanzania.html)
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -42,3 +47,5 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+
